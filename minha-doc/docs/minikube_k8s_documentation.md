@@ -91,6 +91,8 @@ kubectl get services
 
 Confirme que os pods de todos os serviços estão ativos e com status `Running`.
 
+![alt text](image-2.png)
+
 ---
 
 ## Alternativas
